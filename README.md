@@ -10,4 +10,4 @@ Project Title:
 
 Description:
   
-  Udacity Nanodegree project to create a relational database using Postgres SQL.  First part is create the Data Definition Language     DDL for new schema.  The second part is to migrate the provided data using Data Manipulation Langauge DML.
+  Udacity Nanodegree project to create a relational database using Postgres SQL.  First part is create the Data Definition Language     DDL for new schema.  The second part is to migrate the provided data using Data Manipulation Language DML.
